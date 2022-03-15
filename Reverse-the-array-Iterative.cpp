@@ -1,3 +1,5 @@
+// Time Complexity o(n)
+
 #include <iostream>
 using namespace std;
 
