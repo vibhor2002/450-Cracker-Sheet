@@ -1,7 +1,7 @@
 // Method 1
 // using simple linear search
 
-// Time Complexity:
+// Time Complexity:  O(n)
 
 #include <iostream>
 using namespace std;
