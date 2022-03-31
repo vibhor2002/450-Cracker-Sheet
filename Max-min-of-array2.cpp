@@ -1,7 +1,7 @@
 // Method 1
 // using tournament method
 
-// Time Complexity:
+// Time Complexity: o(n)
 
 #include <iostream>
 using namespace std;
